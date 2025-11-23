@@ -1,0 +1,80 @@
+=== New Simulation ===
+Inputs:
+Age: 60.0
+Sleep hours: 6.0
+Self-reported symptom score: 5.0
+
+Simulated symptom curves:
+Tremor: [4.983, 4.851, 4.689, 5.096, 5.408, 6.165, 6.408, 6.418, 7.307, 7.513]
+Rigidity: [3.716, 4.239, 4.518, 4.896, 4.575, 5.287, 5.26, 6.003, 6.347, 7.069]
+Slowness: [4.405, 4.518, 4.456, 5.229, 5.468, 6.19, 6.258, 6.932, 6.795, 7.343]
+
+Mean values:
+Tremor: 5.884
+Rigidity: 5.191
+Slowness: 5.759
+Age factor: 1.0
+Sleep factor: 1.0
+Estimated probability of progression: 27.82%
+Note: simple educational simulation, not medical advice
+
+=== New Simulation ===
+Inputs:
+Age: 17.0
+Sleep hours: 8.0
+Self-reported symptom score: 0.0
+
+Simulated symptom curves:
+Tremor: [5.436, 5.58, 5.835, 5.748, 6.581, 6.812, 6.932, 7.133, 7.11, 7.149]
+Rigidity: [2.707, 2.917, 2.667, 2.489, 2.91, 3.379, 3.72, 3.496, 4.163, 3.921]
+Slowness: [3.982, 4.494, 4.539, 4.756, 5.54, 5.368, 5.264, 4.939, 5.07, 5.369]
+
+Mean values:
+Tremor: 6.432
+Rigidity: 3.237
+Slowness: 4.932
+Age factor: 0.9
+Sleep factor: 0.9
+Estimated probability of progression: 2.03%
+Note: simple educational simulation, not medical advice
+
+=== New Simulation ===
+Inputs:
+Age: 18.0
+Sleep hours: 5.0
+Self-reported symptom score: 2.0
+
+Simulated symptom curves:
+Tremor: [5.805, 6.328, 6.94, 7.815, 7.608, 8.16, 8.031, 8.732, 8.928, 8.848]
+Rigidity: [2.814, 2.495, 2.63, 3.324, 2.972, 3.068, 3.43, 4.185, 4.288, 4.78]
+Slowness: [4.217, 4.24, 3.915, 4.694, 5.137, 5.326, 4.988, 5.102, 4.923, 5.142]
+
+Mean values:
+Tremor: 7.72
+Rigidity: 3.399
+Slowness: 4.768
+Age factor: 0.9
+Sleep factor: 1.0
+Estimated probability of progression: 11.49%
+Note: simple educational simulation, not medical advice
+
+=== New Simulation ===
+Inputs:
+Age: 79.0
+Sleep hours: 7.0
+Self-reported symptom score: 6.0
+
+Simulated symptom curves:
+Tremor: [5.111, 4.869, 4.924, 4.815, 4.752, 4.895, 5.718, 5.708, 6.08, 6.091]
+Rigidity: [3.342, 3.607, 3.301, 3.501, 3.902, 3.886, 4.316, 3.978, 3.912, 4.509]
+Slowness: [3.926, 3.655, 3.952, 4.384, 4.491, 4.619, 4.473, 4.969, 5.325, 5.263]
+
+Mean values:
+Tremor: 5.296
+Rigidity: 3.825
+Slowness: 4.506
+Age factor: 1.15
+Sleep factor: 0.9
+Estimated probability of progression: 33.44%
+Note: simple educational simulation, not medical advice
+
